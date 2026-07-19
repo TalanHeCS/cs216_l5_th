@@ -1,1 +1,37 @@
+army menu
+1 create army
+2 print army
+3 quit
+enter choice: 1
 
+enter army name: Avengers
+enter army size: 5
+
+army menu
+1 create army
+2 print army
+3 quit
+enter choice: 2
+
+name           type           strength    health
+----------------------------------------------------
+Creature_1     Elf            72          58
+Creature_2     Human          41          87
+Creature_3     Orc            95          63
+Creature_4     Unknown        28          44
+Creature_5     Elf            66          91
+
+army menu
+1 create army
+2 print army
+3 quit
+enter choice: 3
+
+goodbye
+
+army Avengers destructor in progress
+Creature_1 Elf destructor
+Creature_2 Human destructor
+Creature_3 Orc destructor
+Creature_4 Unknown destructor
+Creature_5 Elf destructor
